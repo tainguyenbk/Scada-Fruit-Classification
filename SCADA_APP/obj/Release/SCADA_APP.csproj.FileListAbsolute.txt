@@ -1,0 +1,509 @@
+C:\Users\van tai\Desktop\Scada\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\SCADA_APP.exe.config
+C:\Users\van tai\Desktop\Scada\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\SCADA_APP.exe
+C:\Users\van tai\Desktop\Scada\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\SCADA_APP.pdb
+C:\Users\van tai\Desktop\Scada\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\AForge.dll
+C:\Users\van tai\Desktop\Scada\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\AForge.Imaging.dll
+C:\Users\van tai\Desktop\Scada\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\AForge.Math.dll
+C:\Users\van tai\Desktop\Scada\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\AForge.Video.DirectShow.dll
+C:\Users\van tai\Desktop\Scada\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\AForge.Video.dll
+C:\Users\van tai\Desktop\Scada\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\van tai\Desktop\Scada\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\CircularProgressBar.dll
+C:\Users\van tai\Desktop\Scada\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\itextsharp.dll
+C:\Users\van tai\Desktop\Scada\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\LiveCharts.dll
+C:\Users\van tai\Desktop\Scada\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\LiveCharts.WinForms.dll
+C:\Users\van tai\Desktop\Scada\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\LiveCharts.Wpf.dll
+C:\Users\van tai\Desktop\Scada\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\van tai\Desktop\Scada\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\NetToolKit.dll
+C:\Users\van tai\Desktop\Scada\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\OpenCvSharp.dll
+C:\Users\van tai\Desktop\Scada\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\OpenCvSharp.Extensions.dll
+C:\Users\van tai\Desktop\Scada\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\OpenCvSharp.UserInterface.dll
+C:\Users\van tai\Desktop\Scada\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\S7.Net.dll
+C:\Users\van tai\Desktop\Scada\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\SKCLNET.dll
+C:\Users\van tai\Desktop\Scada\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\SymbolFactoryNetEngine.dll
+C:\Users\van tai\Desktop\Scada\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\System.Buffers.dll
+C:\Users\van tai\Desktop\Scada\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\System.Drawing.Common.dll
+C:\Users\van tai\Desktop\Scada\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\System.Memory.dll
+C:\Users\van tai\Desktop\Scada\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\System.Numerics.Vectors.dll
+C:\Users\van tai\Desktop\Scada\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\van tai\Desktop\Scada\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\System.ValueTuple.dll
+C:\Users\van tai\Desktop\Scada\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\WinFormAnimation.dll
+C:\Users\van tai\Desktop\Scada\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\AForge.xml
+C:\Users\van tai\Desktop\Scada\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\AForge.Imaging.xml
+C:\Users\van tai\Desktop\Scada\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\AForge.Math.xml
+C:\Users\van tai\Desktop\Scada\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\AForge.Video.xml
+C:\Users\van tai\Desktop\Scada\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\AForge.Video.DirectShow.xml
+C:\Users\van tai\Desktop\Scada\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\CircularProgressBar.xml
+C:\Users\van tai\Desktop\Scada\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\itextsharp.xml
+C:\Users\van tai\Desktop\Scada\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\LiveCharts.pdb
+C:\Users\van tai\Desktop\Scada\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\LiveCharts.xml
+C:\Users\van tai\Desktop\Scada\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\LiveCharts.WinForms.pdb
+C:\Users\van tai\Desktop\Scada\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\LiveCharts.WinForms.xml
+C:\Users\van tai\Desktop\Scada\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\LiveCharts.Wpf.pdb
+C:\Users\van tai\Desktop\Scada\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\LiveCharts.Wpf.xml
+C:\Users\van tai\Desktop\Scada\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\van tai\Desktop\Scada\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\System.Buffers.xml
+C:\Users\van tai\Desktop\Scada\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\System.Memory.xml
+C:\Users\van tai\Desktop\Scada\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\System.Numerics.Vectors.xml
+C:\Users\van tai\Desktop\Scada\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\van tai\Desktop\Scada\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\System.ValueTuple.xml
+C:\Users\van tai\Desktop\Scada\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\WinFormAnimation.xml
+C:\Users\van tai\Desktop\Scada\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\Users\van tai\Desktop\Scada\SCADA_APP_1\SCADA_APP\SCADA_APP\obj\Release\SCADA_APP.csproj.ResolveComReference.cache
+C:\Users\van tai\Desktop\Scada\SCADA_APP_1\SCADA_APP\SCADA_APP\obj\Release\SCADA_APP.frAbout.resources
+C:\Users\van tai\Desktop\Scada\SCADA_APP_1\SCADA_APP\SCADA_APP\obj\Release\SCADA_APP.frHome.resources
+C:\Users\van tai\Desktop\Scada\SCADA_APP_1\SCADA_APP\SCADA_APP\obj\Release\SCADA_APP.frLogin.resources
+C:\Users\van tai\Desktop\Scada\SCADA_APP_1\SCADA_APP\SCADA_APP\obj\Release\SCADA_APP.frSetting.resources
+C:\Users\van tai\Desktop\Scada\SCADA_APP_1\SCADA_APP\SCADA_APP\obj\Release\SCADA_APP.frUser.resources
+C:\Users\van tai\Desktop\Scada\SCADA_APP_1\SCADA_APP\SCADA_APP\obj\Release\SCADA_APP.frView.resources
+C:\Users\van tai\Desktop\Scada\SCADA_APP_1\SCADA_APP\SCADA_APP\obj\Release\SCADA_APP.Properties.Resources.resources
+C:\Users\van tai\Desktop\Scada\SCADA_APP_1\SCADA_APP\SCADA_APP\obj\Release\SCADA_APP.csproj.GenerateResource.cache
+C:\Users\van tai\Desktop\Scada\SCADA_APP_1\SCADA_APP\SCADA_APP\obj\Release\SCADA_APP.csproj.CoreCompileInputs.cache
+C:\Users\van tai\Desktop\Scada\SCADA_APP_1\SCADA_APP\SCADA_APP\obj\Release\SCADA_APP.csproj.CopyComplete
+C:\Users\van tai\Desktop\Scada\SCADA_APP_1\SCADA_APP\SCADA_APP\obj\Release\SCADA_APP.exe
+C:\Users\van tai\Desktop\Scada\SCADA_APP_1\SCADA_APP\SCADA_APP\obj\Release\SCADA_APP.pdb
+C:\Users\van tai\Desktop\Scada\SCADA_APP_1\SCADA_APP\SCADA_APP\obj\Release\SCADA_APP.csprojAssemblyReference.cache
+C:\Users\van tai\Desktop\Scada\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\SCADA_APP.exe.config
+C:\Users\van tai\Desktop\Scada\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\SCADA_APP.exe
+C:\Users\van tai\Desktop\Scada\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\SCADA_APP.pdb
+C:\Users\van tai\Desktop\Scada\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\AForge.dll
+C:\Users\van tai\Desktop\Scada\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\AForge.Imaging.dll
+C:\Users\van tai\Desktop\Scada\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\AForge.Math.dll
+C:\Users\van tai\Desktop\Scada\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\AForge.Video.DirectShow.dll
+C:\Users\van tai\Desktop\Scada\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\AForge.Video.dll
+C:\Users\van tai\Desktop\Scada\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\van tai\Desktop\Scada\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\CircularProgressBar.dll
+C:\Users\van tai\Desktop\Scada\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\itextsharp.dll
+C:\Users\van tai\Desktop\Scada\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\LiveCharts.dll
+C:\Users\van tai\Desktop\Scada\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\LiveCharts.WinForms.dll
+C:\Users\van tai\Desktop\Scada\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\LiveCharts.Wpf.dll
+C:\Users\van tai\Desktop\Scada\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\van tai\Desktop\Scada\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\NetToolKit.dll
+C:\Users\van tai\Desktop\Scada\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\S7.Net.dll
+C:\Users\van tai\Desktop\Scada\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\SKCLNET.dll
+C:\Users\van tai\Desktop\Scada\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\SymbolFactoryNetEngine.dll
+C:\Users\van tai\Desktop\Scada\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\System.Buffers.dll
+C:\Users\van tai\Desktop\Scada\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\System.Drawing.Common.dll
+C:\Users\van tai\Desktop\Scada\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\System.Memory.dll
+C:\Users\van tai\Desktop\Scada\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\System.Numerics.Vectors.dll
+C:\Users\van tai\Desktop\Scada\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\van tai\Desktop\Scada\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\System.ValueTuple.dll
+C:\Users\van tai\Desktop\Scada\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\WinFormAnimation.dll
+C:\Users\van tai\Desktop\Scada\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\AForge.xml
+C:\Users\van tai\Desktop\Scada\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\AForge.Imaging.xml
+C:\Users\van tai\Desktop\Scada\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\AForge.Math.xml
+C:\Users\van tai\Desktop\Scada\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\AForge.Video.xml
+C:\Users\van tai\Desktop\Scada\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\AForge.Video.DirectShow.xml
+C:\Users\van tai\Desktop\Scada\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\CircularProgressBar.xml
+C:\Users\van tai\Desktop\Scada\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\itextsharp.xml
+C:\Users\van tai\Desktop\Scada\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\LiveCharts.pdb
+C:\Users\van tai\Desktop\Scada\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\LiveCharts.xml
+C:\Users\van tai\Desktop\Scada\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\LiveCharts.WinForms.pdb
+C:\Users\van tai\Desktop\Scada\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\LiveCharts.WinForms.xml
+C:\Users\van tai\Desktop\Scada\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\LiveCharts.Wpf.pdb
+C:\Users\van tai\Desktop\Scada\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\LiveCharts.Wpf.xml
+C:\Users\van tai\Desktop\Scada\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\van tai\Desktop\Scada\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\System.Buffers.xml
+C:\Users\van tai\Desktop\Scada\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\System.Memory.xml
+C:\Users\van tai\Desktop\Scada\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\System.Numerics.Vectors.xml
+C:\Users\van tai\Desktop\Scada\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\van tai\Desktop\Scada\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\System.ValueTuple.xml
+C:\Users\van tai\Desktop\Scada\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\WinFormAnimation.xml
+C:\Users\van tai\Desktop\Scada\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\Users\van tai\Desktop\Scada\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\obj\Release\SCADA_APP.csproj.ResolveComReference.cache
+C:\Users\van tai\Desktop\Scada\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\obj\Release\SCADA_APP.frAbout.resources
+C:\Users\van tai\Desktop\Scada\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\obj\Release\SCADA_APP.frHome.resources
+C:\Users\van tai\Desktop\Scada\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\obj\Release\SCADA_APP.frLogin.resources
+C:\Users\van tai\Desktop\Scada\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\obj\Release\SCADA_APP.frSetting.resources
+C:\Users\van tai\Desktop\Scada\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\obj\Release\SCADA_APP.frUser.resources
+C:\Users\van tai\Desktop\Scada\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\obj\Release\SCADA_APP.Properties.Resources.resources
+C:\Users\van tai\Desktop\Scada\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\obj\Release\SCADA_APP.csproj.GenerateResource.cache
+C:\Users\van tai\Desktop\Scada\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\obj\Release\SCADA_APP.csproj.CoreCompileInputs.cache
+C:\Users\van tai\Desktop\Scada\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\obj\Release\SCADA_APP.csproj.CopyComplete
+C:\Users\van tai\Desktop\Scada\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\obj\Release\SCADA_APP.exe
+C:\Users\van tai\Desktop\Scada\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\obj\Release\SCADA_APP.pdb
+C:\Users\van tai\Desktop\Scada\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\obj\Release\SCADA_APP.frReport.resources
+C:\Users\van tai\Desktop\Scada\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\obj\Release\SCADA_APP.csprojAssemblyReference.cache
+C:\Users\van tai\Desktop\Scada\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\SCADA_APP.exe.config
+C:\Users\van tai\Desktop\Scada\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\SCADA_APP.exe
+C:\Users\van tai\Desktop\Scada\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\SCADA_APP.pdb
+C:\Users\van tai\Desktop\Scada\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\AForge.dll
+C:\Users\van tai\Desktop\Scada\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\AForge.Imaging.dll
+C:\Users\van tai\Desktop\Scada\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\AForge.Math.dll
+C:\Users\van tai\Desktop\Scada\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\AForge.Video.DirectShow.dll
+C:\Users\van tai\Desktop\Scada\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\AForge.Video.dll
+C:\Users\van tai\Desktop\Scada\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\van tai\Desktop\Scada\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\CircularProgressBar.dll
+C:\Users\van tai\Desktop\Scada\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\itextsharp.dll
+C:\Users\van tai\Desktop\Scada\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\LiveCharts.dll
+C:\Users\van tai\Desktop\Scada\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\LiveCharts.WinForms.dll
+C:\Users\van tai\Desktop\Scada\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\LiveCharts.Wpf.dll
+C:\Users\van tai\Desktop\Scada\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\van tai\Desktop\Scada\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\S7.Net.dll
+C:\Users\van tai\Desktop\Scada\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\System.Buffers.dll
+C:\Users\van tai\Desktop\Scada\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\System.Drawing.Common.dll
+C:\Users\van tai\Desktop\Scada\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\System.Memory.dll
+C:\Users\van tai\Desktop\Scada\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\System.Numerics.Vectors.dll
+C:\Users\van tai\Desktop\Scada\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\van tai\Desktop\Scada\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\System.ValueTuple.dll
+C:\Users\van tai\Desktop\Scada\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\WinFormAnimation.dll
+C:\Users\van tai\Desktop\Scada\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\AForge.xml
+C:\Users\van tai\Desktop\Scada\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\AForge.Imaging.xml
+C:\Users\van tai\Desktop\Scada\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\AForge.Math.xml
+C:\Users\van tai\Desktop\Scada\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\AForge.Video.xml
+C:\Users\van tai\Desktop\Scada\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\AForge.Video.DirectShow.xml
+C:\Users\van tai\Desktop\Scada\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\CircularProgressBar.xml
+C:\Users\van tai\Desktop\Scada\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\itextsharp.xml
+C:\Users\van tai\Desktop\Scada\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\LiveCharts.pdb
+C:\Users\van tai\Desktop\Scada\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\LiveCharts.xml
+C:\Users\van tai\Desktop\Scada\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\LiveCharts.WinForms.pdb
+C:\Users\van tai\Desktop\Scada\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\LiveCharts.WinForms.xml
+C:\Users\van tai\Desktop\Scada\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\LiveCharts.Wpf.pdb
+C:\Users\van tai\Desktop\Scada\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\LiveCharts.Wpf.xml
+C:\Users\van tai\Desktop\Scada\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\van tai\Desktop\Scada\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\System.Buffers.xml
+C:\Users\van tai\Desktop\Scada\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\System.Memory.xml
+C:\Users\van tai\Desktop\Scada\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\System.Numerics.Vectors.xml
+C:\Users\van tai\Desktop\Scada\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\van tai\Desktop\Scada\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\System.ValueTuple.xml
+C:\Users\van tai\Desktop\Scada\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\WinFormAnimation.xml
+C:\Users\van tai\Desktop\Scada\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\Users\van tai\Desktop\Scada\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\obj\Release\SCADA_APP.csproj.ResolveComReference.cache
+C:\Users\van tai\Desktop\Scada\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\obj\Release\SCADA_APP.Form1.resources
+C:\Users\van tai\Desktop\Scada\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\obj\Release\SCADA_APP.frAbout.resources
+C:\Users\van tai\Desktop\Scada\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\obj\Release\SCADA_APP.frHome.resources
+C:\Users\van tai\Desktop\Scada\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\obj\Release\SCADA_APP.frLogin.resources
+C:\Users\van tai\Desktop\Scada\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\obj\Release\SCADA_APP.frSetting.resources
+C:\Users\van tai\Desktop\Scada\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\obj\Release\SCADA_APP.frUser.resources
+C:\Users\van tai\Desktop\Scada\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\obj\Release\SCADA_APP.frViewData.resources
+C:\Users\van tai\Desktop\Scada\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\obj\Release\SCADA_APP.frViewStatus.resources
+C:\Users\van tai\Desktop\Scada\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\obj\Release\SCADA_APP.Properties.Resources.resources
+C:\Users\van tai\Desktop\Scada\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\obj\Release\SCADA_APP.csproj.GenerateResource.cache
+C:\Users\van tai\Desktop\Scada\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\obj\Release\SCADA_APP.csproj.CoreCompileInputs.cache
+C:\Users\van tai\Desktop\Scada\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\obj\Release\SCADA_APP.csproj.CopyComplete
+C:\Users\van tai\Desktop\Scada\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\obj\Release\SCADA_APP.exe
+C:\Users\van tai\Desktop\Scada\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\obj\Release\SCADA_APP.pdb
+C:\Users\van tai\Desktop\Scada\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\NetToolKit.dll
+C:\Users\van tai\Desktop\Scada\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\SKCLNET.dll
+C:\Users\van tai\Desktop\Scada\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\SymbolFactoryDotNet.dll
+C:\Users\van tai\Desktop\Scada\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\SymbolFactoryNetEngine.dll
+C:\Users\van tai\Desktop\Scada\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\FiveCodMaterialDesign.dll
+C:\Users\van tai\Desktop\Scada\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\obj\Release\SCADA_APP.csprojAssemblyReference.cache
+C:\Users\van tai\Desktop\SCADA_APP_finals\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\SCADA_APP.exe.config
+C:\Users\van tai\Desktop\SCADA_APP_finals\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\SCADA_APP.exe
+C:\Users\van tai\Desktop\SCADA_APP_finals\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\SCADA_APP.pdb
+C:\Users\van tai\Desktop\SCADA_APP_finals\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\AForge.dll
+C:\Users\van tai\Desktop\SCADA_APP_finals\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\AForge.Imaging.dll
+C:\Users\van tai\Desktop\SCADA_APP_finals\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\AForge.Math.dll
+C:\Users\van tai\Desktop\SCADA_APP_finals\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\AForge.Video.DirectShow.dll
+C:\Users\van tai\Desktop\SCADA_APP_finals\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\AForge.Video.dll
+C:\Users\van tai\Desktop\SCADA_APP_finals\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\van tai\Desktop\SCADA_APP_finals\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\CircularProgressBar.dll
+C:\Users\van tai\Desktop\SCADA_APP_finals\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\FiveCodMaterialDesign.dll
+C:\Users\van tai\Desktop\SCADA_APP_finals\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\itextsharp.dll
+C:\Users\van tai\Desktop\SCADA_APP_finals\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\LiveCharts.dll
+C:\Users\van tai\Desktop\SCADA_APP_finals\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\LiveCharts.WinForms.dll
+C:\Users\van tai\Desktop\SCADA_APP_finals\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\LiveCharts.Wpf.dll
+C:\Users\van tai\Desktop\SCADA_APP_finals\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\van tai\Desktop\SCADA_APP_finals\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\NetToolKit.dll
+C:\Users\van tai\Desktop\SCADA_APP_finals\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\S7.Net.dll
+C:\Users\van tai\Desktop\SCADA_APP_finals\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\SKCLNET.dll
+C:\Users\van tai\Desktop\SCADA_APP_finals\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\SymbolFactoryDotNet.dll
+C:\Users\van tai\Desktop\SCADA_APP_finals\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\SymbolFactoryNetEngine.dll
+C:\Users\van tai\Desktop\SCADA_APP_finals\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\System.Buffers.dll
+C:\Users\van tai\Desktop\SCADA_APP_finals\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\System.Drawing.Common.dll
+C:\Users\van tai\Desktop\SCADA_APP_finals\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\System.Memory.dll
+C:\Users\van tai\Desktop\SCADA_APP_finals\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\System.Numerics.Vectors.dll
+C:\Users\van tai\Desktop\SCADA_APP_finals\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\van tai\Desktop\SCADA_APP_finals\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\System.ValueTuple.dll
+C:\Users\van tai\Desktop\SCADA_APP_finals\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\WinFormAnimation.dll
+C:\Users\van tai\Desktop\SCADA_APP_finals\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\AForge.xml
+C:\Users\van tai\Desktop\SCADA_APP_finals\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\AForge.Imaging.xml
+C:\Users\van tai\Desktop\SCADA_APP_finals\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\AForge.Math.xml
+C:\Users\van tai\Desktop\SCADA_APP_finals\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\AForge.Video.xml
+C:\Users\van tai\Desktop\SCADA_APP_finals\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\AForge.Video.DirectShow.xml
+C:\Users\van tai\Desktop\SCADA_APP_finals\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\CircularProgressBar.xml
+C:\Users\van tai\Desktop\SCADA_APP_finals\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\itextsharp.xml
+C:\Users\van tai\Desktop\SCADA_APP_finals\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\LiveCharts.pdb
+C:\Users\van tai\Desktop\SCADA_APP_finals\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\LiveCharts.xml
+C:\Users\van tai\Desktop\SCADA_APP_finals\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\LiveCharts.WinForms.pdb
+C:\Users\van tai\Desktop\SCADA_APP_finals\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\LiveCharts.WinForms.xml
+C:\Users\van tai\Desktop\SCADA_APP_finals\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\LiveCharts.Wpf.pdb
+C:\Users\van tai\Desktop\SCADA_APP_finals\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\LiveCharts.Wpf.xml
+C:\Users\van tai\Desktop\SCADA_APP_finals\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\van tai\Desktop\SCADA_APP_finals\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\System.Buffers.xml
+C:\Users\van tai\Desktop\SCADA_APP_finals\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\System.Memory.xml
+C:\Users\van tai\Desktop\SCADA_APP_finals\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\System.Numerics.Vectors.xml
+C:\Users\van tai\Desktop\SCADA_APP_finals\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\van tai\Desktop\SCADA_APP_finals\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\System.ValueTuple.xml
+C:\Users\van tai\Desktop\SCADA_APP_finals\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\WinFormAnimation.xml
+C:\Users\van tai\Desktop\SCADA_APP_finals\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\Users\van tai\Desktop\SCADA_APP_finals\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\obj\Release\SCADA_APP.csproj.ResolveComReference.cache
+C:\Users\van tai\Desktop\SCADA_APP_finals\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\obj\Release\SCADA_APP.Form1.resources
+C:\Users\van tai\Desktop\SCADA_APP_finals\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\obj\Release\SCADA_APP.frAbout.resources
+C:\Users\van tai\Desktop\SCADA_APP_finals\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\obj\Release\SCADA_APP.frHome.resources
+C:\Users\van tai\Desktop\SCADA_APP_finals\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\obj\Release\SCADA_APP.frLogin.resources
+C:\Users\van tai\Desktop\SCADA_APP_finals\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\obj\Release\SCADA_APP.frSetting.resources
+C:\Users\van tai\Desktop\SCADA_APP_finals\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\obj\Release\SCADA_APP.frUser.resources
+C:\Users\van tai\Desktop\SCADA_APP_finals\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\obj\Release\SCADA_APP.Properties.Resources.resources
+C:\Users\van tai\Desktop\SCADA_APP_finals\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\obj\Release\SCADA_APP.csproj.GenerateResource.cache
+C:\Users\van tai\Desktop\SCADA_APP_finals\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\obj\Release\SCADA_APP.csproj.CoreCompileInputs.cache
+C:\Users\van tai\Desktop\SCADA_APP_finals\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\obj\Release\SCADA_APP.csproj.CopyComplete
+C:\Users\van tai\Desktop\SCADA_APP_finals\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\obj\Release\SCADA_APP.exe
+C:\Users\van tai\Desktop\SCADA_APP_finals\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\obj\Release\SCADA_APP.pdb
+C:\Users\van tai\Desktop\SCADA_APP_finals\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\obj\Release\SCADA_APP.frView.resources
+C:\Users\van tai\Desktop\SCADA_APP_finals\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_APP\SCADA_APP\obj\Release\SCADA_APP.csprojAssemblyReference.cache
+C:\Users\van tai\Desktop\SCADA_APP_finals\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_final\SCADA_APP\bin\Release\SCADA_APP.exe.config
+C:\Users\van tai\Desktop\SCADA_APP_finals\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_final\SCADA_APP\bin\Release\SCADA_APP.exe
+C:\Users\van tai\Desktop\SCADA_APP_finals\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_final\SCADA_APP\bin\Release\SCADA_APP.pdb
+C:\Users\van tai\Desktop\SCADA_APP_finals\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_final\SCADA_APP\bin\Release\AForge.dll
+C:\Users\van tai\Desktop\SCADA_APP_finals\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_final\SCADA_APP\bin\Release\AForge.Imaging.dll
+C:\Users\van tai\Desktop\SCADA_APP_finals\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_final\SCADA_APP\bin\Release\AForge.Math.dll
+C:\Users\van tai\Desktop\SCADA_APP_finals\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_final\SCADA_APP\bin\Release\AForge.Video.DirectShow.dll
+C:\Users\van tai\Desktop\SCADA_APP_finals\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_final\SCADA_APP\bin\Release\AForge.Video.dll
+C:\Users\van tai\Desktop\SCADA_APP_finals\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_final\SCADA_APP\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\van tai\Desktop\SCADA_APP_finals\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_final\SCADA_APP\bin\Release\CircularProgressBar.dll
+C:\Users\van tai\Desktop\SCADA_APP_finals\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_final\SCADA_APP\bin\Release\FiveCodMaterialDesign.dll
+C:\Users\van tai\Desktop\SCADA_APP_finals\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_final\SCADA_APP\bin\Release\itextsharp.dll
+C:\Users\van tai\Desktop\SCADA_APP_finals\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_final\SCADA_APP\bin\Release\LiveCharts.dll
+C:\Users\van tai\Desktop\SCADA_APP_finals\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_final\SCADA_APP\bin\Release\LiveCharts.WinForms.dll
+C:\Users\van tai\Desktop\SCADA_APP_finals\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_final\SCADA_APP\bin\Release\LiveCharts.Wpf.dll
+C:\Users\van tai\Desktop\SCADA_APP_finals\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_final\SCADA_APP\bin\Release\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\van tai\Desktop\SCADA_APP_finals\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_final\SCADA_APP\bin\Release\NetToolKit.dll
+C:\Users\van tai\Desktop\SCADA_APP_finals\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_final\SCADA_APP\bin\Release\S7.Net.dll
+C:\Users\van tai\Desktop\SCADA_APP_finals\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_final\SCADA_APP\bin\Release\SKCLNET.dll
+C:\Users\van tai\Desktop\SCADA_APP_finals\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_final\SCADA_APP\bin\Release\SymbolFactoryDotNet.dll
+C:\Users\van tai\Desktop\SCADA_APP_finals\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_final\SCADA_APP\bin\Release\SymbolFactoryNetEngine.dll
+C:\Users\van tai\Desktop\SCADA_APP_finals\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_final\SCADA_APP\bin\Release\System.Buffers.dll
+C:\Users\van tai\Desktop\SCADA_APP_finals\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_final\SCADA_APP\bin\Release\System.Drawing.Common.dll
+C:\Users\van tai\Desktop\SCADA_APP_finals\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_final\SCADA_APP\bin\Release\System.Memory.dll
+C:\Users\van tai\Desktop\SCADA_APP_finals\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_final\SCADA_APP\bin\Release\System.Numerics.Vectors.dll
+C:\Users\van tai\Desktop\SCADA_APP_finals\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_final\SCADA_APP\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\van tai\Desktop\SCADA_APP_finals\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_final\SCADA_APP\bin\Release\System.ValueTuple.dll
+C:\Users\van tai\Desktop\SCADA_APP_finals\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_final\SCADA_APP\bin\Release\WinFormAnimation.dll
+C:\Users\van tai\Desktop\SCADA_APP_finals\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_final\SCADA_APP\bin\Release\AForge.xml
+C:\Users\van tai\Desktop\SCADA_APP_finals\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_final\SCADA_APP\bin\Release\AForge.Imaging.xml
+C:\Users\van tai\Desktop\SCADA_APP_finals\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_final\SCADA_APP\bin\Release\AForge.Math.xml
+C:\Users\van tai\Desktop\SCADA_APP_finals\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_final\SCADA_APP\bin\Release\AForge.Video.xml
+C:\Users\van tai\Desktop\SCADA_APP_finals\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_final\SCADA_APP\bin\Release\AForge.Video.DirectShow.xml
+C:\Users\van tai\Desktop\SCADA_APP_finals\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_final\SCADA_APP\bin\Release\CircularProgressBar.xml
+C:\Users\van tai\Desktop\SCADA_APP_finals\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_final\SCADA_APP\bin\Release\itextsharp.xml
+C:\Users\van tai\Desktop\SCADA_APP_finals\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_final\SCADA_APP\bin\Release\LiveCharts.pdb
+C:\Users\van tai\Desktop\SCADA_APP_finals\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_final\SCADA_APP\bin\Release\LiveCharts.xml
+C:\Users\van tai\Desktop\SCADA_APP_finals\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_final\SCADA_APP\bin\Release\LiveCharts.WinForms.pdb
+C:\Users\van tai\Desktop\SCADA_APP_finals\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_final\SCADA_APP\bin\Release\LiveCharts.WinForms.xml
+C:\Users\van tai\Desktop\SCADA_APP_finals\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_final\SCADA_APP\bin\Release\LiveCharts.Wpf.pdb
+C:\Users\van tai\Desktop\SCADA_APP_finals\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_final\SCADA_APP\bin\Release\LiveCharts.Wpf.xml
+C:\Users\van tai\Desktop\SCADA_APP_finals\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_final\SCADA_APP\bin\Release\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\van tai\Desktop\SCADA_APP_finals\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_final\SCADA_APP\bin\Release\System.Buffers.xml
+C:\Users\van tai\Desktop\SCADA_APP_finals\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_final\SCADA_APP\bin\Release\System.Memory.xml
+C:\Users\van tai\Desktop\SCADA_APP_finals\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_final\SCADA_APP\bin\Release\System.Numerics.Vectors.xml
+C:\Users\van tai\Desktop\SCADA_APP_finals\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_final\SCADA_APP\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\van tai\Desktop\SCADA_APP_finals\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_final\SCADA_APP\bin\Release\System.ValueTuple.xml
+C:\Users\van tai\Desktop\SCADA_APP_finals\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_final\SCADA_APP\bin\Release\WinFormAnimation.xml
+C:\Users\van tai\Desktop\SCADA_APP_finals\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_final\SCADA_APP\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\Users\van tai\Desktop\SCADA_APP_finals\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_final\SCADA_APP\obj\Release\SCADA_APP.csproj.ResolveComReference.cache
+C:\Users\van tai\Desktop\SCADA_APP_finals\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_final\SCADA_APP\obj\Release\SCADA_APP.Form1.resources
+C:\Users\van tai\Desktop\SCADA_APP_finals\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_final\SCADA_APP\obj\Release\SCADA_APP.frAbout.resources
+C:\Users\van tai\Desktop\SCADA_APP_finals\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_final\SCADA_APP\obj\Release\SCADA_APP.frHome.resources
+C:\Users\van tai\Desktop\SCADA_APP_finals\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_final\SCADA_APP\obj\Release\SCADA_APP.frLogin.resources
+C:\Users\van tai\Desktop\SCADA_APP_finals\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_final\SCADA_APP\obj\Release\SCADA_APP.frSetting.resources
+C:\Users\van tai\Desktop\SCADA_APP_finals\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_final\SCADA_APP\obj\Release\SCADA_APP.frUser.resources
+C:\Users\van tai\Desktop\SCADA_APP_finals\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_final\SCADA_APP\obj\Release\SCADA_APP.Properties.Resources.resources
+C:\Users\van tai\Desktop\SCADA_APP_finals\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_final\SCADA_APP\obj\Release\SCADA_APP.csproj.GenerateResource.cache
+C:\Users\van tai\Desktop\SCADA_APP_finals\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_final\SCADA_APP\obj\Release\SCADA_APP.csproj.CoreCompileInputs.cache
+C:\Users\van tai\Desktop\SCADA_APP_finals\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_final\SCADA_APP\obj\Release\SCADA_APP.csproj.CopyComplete
+C:\Users\van tai\Desktop\SCADA_APP_finals\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_final\SCADA_APP\obj\Release\SCADA_APP.exe
+C:\Users\van tai\Desktop\SCADA_APP_finals\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_final\SCADA_APP\obj\Release\SCADA_APP.pdb
+C:\Users\van tai\Desktop\SCADA_APP_finals\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_final\SCADA_APP\obj\Release\SCADA_APP.frReport.resources
+C:\Users\van tai\Desktop\SCADA_APP_finals\SCADA_APP_finals\SCADA_APP_final\SCADA_APP_1\SCADA_final\SCADA_APP\obj\Release\SCADA_APP.csprojAssemblyReference.cache
+C:\Users\van tai\Desktop\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\SCADA_APP.exe.config
+C:\Users\van tai\Desktop\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\SCADA_APP.exe
+C:\Users\van tai\Desktop\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\SCADA_APP.pdb
+C:\Users\van tai\Desktop\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\AForge.dll
+C:\Users\van tai\Desktop\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\AForge.Imaging.dll
+C:\Users\van tai\Desktop\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\AForge.Math.dll
+C:\Users\van tai\Desktop\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\AForge.Video.DirectShow.dll
+C:\Users\van tai\Desktop\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\AForge.Video.dll
+C:\Users\van tai\Desktop\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\van tai\Desktop\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\CircularProgressBar.dll
+C:\Users\van tai\Desktop\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\FiveCodMaterialDesign.dll
+C:\Users\van tai\Desktop\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\itextsharp.dll
+C:\Users\van tai\Desktop\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\LiveCharts.dll
+C:\Users\van tai\Desktop\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\LiveCharts.WinForms.dll
+C:\Users\van tai\Desktop\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\LiveCharts.Wpf.dll
+C:\Users\van tai\Desktop\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\van tai\Desktop\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\NetToolKit.dll
+C:\Users\van tai\Desktop\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\S7.Net.dll
+C:\Users\van tai\Desktop\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\SKCLNET.dll
+C:\Users\van tai\Desktop\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\SymbolFactoryDotNet.dll
+C:\Users\van tai\Desktop\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\SymbolFactoryNetEngine.dll
+C:\Users\van tai\Desktop\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\System.Buffers.dll
+C:\Users\van tai\Desktop\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\System.Drawing.Common.dll
+C:\Users\van tai\Desktop\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\System.Memory.dll
+C:\Users\van tai\Desktop\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\System.Numerics.Vectors.dll
+C:\Users\van tai\Desktop\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\van tai\Desktop\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\System.ValueTuple.dll
+C:\Users\van tai\Desktop\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\WinFormAnimation.dll
+C:\Users\van tai\Desktop\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\AForge.xml
+C:\Users\van tai\Desktop\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\AForge.Imaging.xml
+C:\Users\van tai\Desktop\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\AForge.Math.xml
+C:\Users\van tai\Desktop\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\AForge.Video.xml
+C:\Users\van tai\Desktop\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\AForge.Video.DirectShow.xml
+C:\Users\van tai\Desktop\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\CircularProgressBar.xml
+C:\Users\van tai\Desktop\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\itextsharp.xml
+C:\Users\van tai\Desktop\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\LiveCharts.pdb
+C:\Users\van tai\Desktop\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\LiveCharts.xml
+C:\Users\van tai\Desktop\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\LiveCharts.WinForms.pdb
+C:\Users\van tai\Desktop\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\LiveCharts.WinForms.xml
+C:\Users\van tai\Desktop\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\LiveCharts.Wpf.pdb
+C:\Users\van tai\Desktop\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\LiveCharts.Wpf.xml
+C:\Users\van tai\Desktop\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\van tai\Desktop\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\System.Buffers.xml
+C:\Users\van tai\Desktop\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\System.Memory.xml
+C:\Users\van tai\Desktop\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\System.Numerics.Vectors.xml
+C:\Users\van tai\Desktop\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\van tai\Desktop\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\System.ValueTuple.xml
+C:\Users\van tai\Desktop\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\WinFormAnimation.xml
+C:\Users\van tai\Desktop\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\Users\van tai\Desktop\THESIS_FIINAL\SCADA_final\SCADA_APP\obj\Release\SCADA_APP.csproj.ResolveComReference.cache
+C:\Users\van tai\Desktop\THESIS_FIINAL\SCADA_final\SCADA_APP\obj\Release\SCADA_APP.Form1.resources
+C:\Users\van tai\Desktop\THESIS_FIINAL\SCADA_final\SCADA_APP\obj\Release\SCADA_APP.frAbout.resources
+C:\Users\van tai\Desktop\THESIS_FIINAL\SCADA_final\SCADA_APP\obj\Release\SCADA_APP.frHome.resources
+C:\Users\van tai\Desktop\THESIS_FIINAL\SCADA_final\SCADA_APP\obj\Release\SCADA_APP.frLogin.resources
+C:\Users\van tai\Desktop\THESIS_FIINAL\SCADA_final\SCADA_APP\obj\Release\SCADA_APP.frReport.resources
+C:\Users\van tai\Desktop\THESIS_FIINAL\SCADA_final\SCADA_APP\obj\Release\SCADA_APP.frSetting.resources
+C:\Users\van tai\Desktop\THESIS_FIINAL\SCADA_final\SCADA_APP\obj\Release\SCADA_APP.frUser.resources
+C:\Users\van tai\Desktop\THESIS_FIINAL\SCADA_final\SCADA_APP\obj\Release\SCADA_APP.Properties.Resources.resources
+C:\Users\van tai\Desktop\THESIS_FIINAL\SCADA_final\SCADA_APP\obj\Release\SCADA_APP.csproj.GenerateResource.cache
+C:\Users\van tai\Desktop\THESIS_FIINAL\SCADA_final\SCADA_APP\obj\Release\SCADA_APP.csproj.CoreCompileInputs.cache
+C:\Users\van tai\Desktop\THESIS_FIINAL\SCADA_final\SCADA_APP\obj\Release\SCADA_APP.csproj.CopyComplete
+C:\Users\van tai\Desktop\THESIS_FIINAL\SCADA_final\SCADA_APP\obj\Release\SCADA_APP.exe
+C:\Users\van tai\Desktop\THESIS_FIINAL\SCADA_final\SCADA_APP\obj\Release\SCADA_APP.pdb
+C:\Users\van tai\Desktop\THESIS_FIINAL\SCADA_final\SCADA_APP\obj\Release\SCADA_APP.csprojAssemblyReference.cache
+D:\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\SCADA_APP.exe.config
+D:\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\SCADA_APP.exe
+D:\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\SCADA_APP.pdb
+D:\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\AForge.dll
+D:\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\AForge.Imaging.dll
+D:\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\AForge.Math.dll
+D:\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\AForge.Video.DirectShow.dll
+D:\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\AForge.Video.dll
+D:\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\BouncyCastle.Crypto.dll
+D:\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\CircularProgressBar.dll
+D:\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\FiveCodMaterialDesign.dll
+D:\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\itextsharp.dll
+D:\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\LiveCharts.dll
+D:\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\LiveCharts.WinForms.dll
+D:\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\LiveCharts.Wpf.dll
+D:\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\Microsoft.VisualBasic.PowerPacks.dll
+D:\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\NetToolKit.dll
+D:\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\S7.Net.dll
+D:\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\SKCLNET.dll
+D:\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\SymbolFactoryDotNet.dll
+D:\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\SymbolFactoryNetEngine.dll
+D:\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\System.Buffers.dll
+D:\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\System.Drawing.Common.dll
+D:\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\System.Memory.dll
+D:\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\System.Numerics.Vectors.dll
+D:\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+D:\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\System.ValueTuple.dll
+D:\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\WinFormAnimation.dll
+D:\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\AForge.xml
+D:\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\AForge.Imaging.xml
+D:\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\AForge.Math.xml
+D:\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\AForge.Video.xml
+D:\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\AForge.Video.DirectShow.xml
+D:\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\CircularProgressBar.xml
+D:\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\itextsharp.xml
+D:\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\LiveCharts.pdb
+D:\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\LiveCharts.xml
+D:\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\LiveCharts.WinForms.pdb
+D:\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\LiveCharts.WinForms.xml
+D:\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\LiveCharts.Wpf.pdb
+D:\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\LiveCharts.Wpf.xml
+D:\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\Microsoft.VisualBasic.PowerPacks.xml
+D:\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\System.Buffers.xml
+D:\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\System.Memory.xml
+D:\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\System.Numerics.Vectors.xml
+D:\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+D:\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\System.ValueTuple.xml
+D:\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\WinFormAnimation.xml
+D:\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\Microsoft.Office.Interop.Excel.dll
+D:\THESIS_FIINAL\SCADA_final\SCADA_APP\obj\Release\SCADA_APP.csprojAssemblyReference.cache
+D:\THESIS_FIINAL\SCADA_final\SCADA_APP\obj\Release\SCADA_APP.csproj.ResolveComReference.cache
+D:\THESIS_FIINAL\SCADA_final\SCADA_APP\obj\Release\SCADA_APP.Form1.resources
+D:\THESIS_FIINAL\SCADA_final\SCADA_APP\obj\Release\SCADA_APP.frAbout.resources
+D:\THESIS_FIINAL\SCADA_final\SCADA_APP\obj\Release\SCADA_APP.frHome.resources
+D:\THESIS_FIINAL\SCADA_final\SCADA_APP\obj\Release\SCADA_APP.frLogin.resources
+D:\THESIS_FIINAL\SCADA_final\SCADA_APP\obj\Release\SCADA_APP.frReport.resources
+D:\THESIS_FIINAL\SCADA_final\SCADA_APP\obj\Release\SCADA_APP.frSetting.resources
+D:\THESIS_FIINAL\SCADA_final\SCADA_APP\obj\Release\SCADA_APP.frUser.resources
+D:\THESIS_FIINAL\SCADA_final\SCADA_APP\obj\Release\SCADA_APP.Properties.Resources.resources
+D:\THESIS_FIINAL\SCADA_final\SCADA_APP\obj\Release\SCADA_APP.csproj.GenerateResource.cache
+D:\THESIS_FIINAL\SCADA_final\SCADA_APP\obj\Release\SCADA_APP.csproj.CoreCompileInputs.cache
+D:\THESIS_FIINAL\SCADA_final\SCADA_APP\obj\Release\SCADA_APP.csproj.CopyComplete
+D:\THESIS_FIINAL\SCADA_final\SCADA_APP\obj\Release\SCADA_APP.exe
+D:\THESIS_FIINAL\SCADA_final\SCADA_APP\obj\Release\SCADA_APP.pdb
+D:\THESIS\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\SCADA_APP.exe.config
+D:\THESIS\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\SCADA_APP.exe
+D:\THESIS\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\SCADA_APP.pdb
+D:\THESIS\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\AForge.dll
+D:\THESIS\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\AForge.Imaging.dll
+D:\THESIS\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\AForge.Math.dll
+D:\THESIS\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\AForge.Video.DirectShow.dll
+D:\THESIS\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\AForge.Video.dll
+D:\THESIS\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\BouncyCastle.Crypto.dll
+D:\THESIS\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\CircularProgressBar.dll
+D:\THESIS\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\FiveCodMaterialDesign.dll
+D:\THESIS\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\itextsharp.dll
+D:\THESIS\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\LiveCharts.dll
+D:\THESIS\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\LiveCharts.WinForms.dll
+D:\THESIS\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\LiveCharts.Wpf.dll
+D:\THESIS\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\NetToolKit.dll
+D:\THESIS\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\S7.Net.dll
+D:\THESIS\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\SKCLNET.dll
+D:\THESIS\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\SymbolFactoryDotNet.dll
+D:\THESIS\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\SymbolFactoryNetEngine.dll
+D:\THESIS\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\System.Buffers.dll
+D:\THESIS\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\System.Drawing.Common.dll
+D:\THESIS\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\System.Memory.dll
+D:\THESIS\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\System.Numerics.Vectors.dll
+D:\THESIS\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+D:\THESIS\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\System.ValueTuple.dll
+D:\THESIS\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\WinFormAnimation.dll
+D:\THESIS\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\AForge.xml
+D:\THESIS\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\AForge.Imaging.xml
+D:\THESIS\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\AForge.Math.xml
+D:\THESIS\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\AForge.Video.xml
+D:\THESIS\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\AForge.Video.DirectShow.xml
+D:\THESIS\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\CircularProgressBar.xml
+D:\THESIS\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\itextsharp.xml
+D:\THESIS\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\LiveCharts.pdb
+D:\THESIS\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\LiveCharts.xml
+D:\THESIS\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\LiveCharts.WinForms.pdb
+D:\THESIS\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\LiveCharts.WinForms.xml
+D:\THESIS\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\LiveCharts.Wpf.pdb
+D:\THESIS\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\LiveCharts.Wpf.xml
+D:\THESIS\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\System.Buffers.xml
+D:\THESIS\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\System.Memory.xml
+D:\THESIS\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\System.Numerics.Vectors.xml
+D:\THESIS\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+D:\THESIS\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\System.ValueTuple.xml
+D:\THESIS\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\WinFormAnimation.xml
+D:\THESIS\THESIS_FIINAL\SCADA_final\SCADA_APP\bin\Release\Microsoft.Office.Interop.Excel.dll
+D:\THESIS\THESIS_FIINAL\SCADA_final\SCADA_APP\obj\Release\SCADA_APP.csprojAssemblyReference.cache
+D:\THESIS\THESIS_FIINAL\SCADA_final\SCADA_APP\obj\Release\SCADA_APP.csproj.ResolveComReference.cache
+D:\THESIS\THESIS_FIINAL\SCADA_final\SCADA_APP\obj\Release\SCADA_APP.Form1.resources
+D:\THESIS\THESIS_FIINAL\SCADA_final\SCADA_APP\obj\Release\SCADA_APP.frAbout.resources
+D:\THESIS\THESIS_FIINAL\SCADA_final\SCADA_APP\obj\Release\SCADA_APP.frHome.resources
+D:\THESIS\THESIS_FIINAL\SCADA_final\SCADA_APP\obj\Release\SCADA_APP.frLogin.resources
+D:\THESIS\THESIS_FIINAL\SCADA_final\SCADA_APP\obj\Release\SCADA_APP.frReport.resources
+D:\THESIS\THESIS_FIINAL\SCADA_final\SCADA_APP\obj\Release\SCADA_APP.frSetting.resources
+D:\THESIS\THESIS_FIINAL\SCADA_final\SCADA_APP\obj\Release\SCADA_APP.frUser.resources
+D:\THESIS\THESIS_FIINAL\SCADA_final\SCADA_APP\obj\Release\SCADA_APP.Properties.Resources.resources
+D:\THESIS\THESIS_FIINAL\SCADA_final\SCADA_APP\obj\Release\SCADA_APP.csproj.GenerateResource.cache
+D:\THESIS\THESIS_FIINAL\SCADA_final\SCADA_APP\obj\Release\SCADA_APP.csproj.CoreCompileInputs.cache
+D:\THESIS\THESIS_FIINAL\SCADA_final\SCADA_APP\obj\Release\SCADA_APP.csproj.CopyComplete
+D:\THESIS\THESIS_FIINAL\SCADA_final\SCADA_APP\obj\Release\SCADA_APP.exe
+D:\THESIS\THESIS_FIINAL\SCADA_final\SCADA_APP\obj\Release\SCADA_APP.pdb
+D:\THESIS\THESIS_FIINAL\SCADA_final\SCADA_APP\obj\Release\SCADA_APP.csproj.AssemblyReference.cache

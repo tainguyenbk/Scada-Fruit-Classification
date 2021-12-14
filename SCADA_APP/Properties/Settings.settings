@@ -1,0 +1,33 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="SCADA_APP.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="SQLPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data Source=DESKTOP-C73VGV1\SQLEXPRESS;Initial Catalog=UserDB;User ID=sa;Password=nguyenvantai123</Value>
+    </Setting>
+    <Setting Name="IPPLC" Type="System.String" Scope="User">
+      <Value Profile="(Default)">192.168.0.24</Value>
+    </Setting>
+    <Setting Name="UpdateTime" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">30</Value>
+    </Setting>
+    <Setting Name="Username" Type="System.String" Scope="User">
+      <Value Profile="(Default)">tai</Value>
+    </Setting>
+    <Setting Name="Position" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Admin</Value>
+    </Setting>
+    <Setting Name="Phone" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0368008455</Value>
+    </Setting>
+    <Setting Name="DisplayName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Nguyen Van Tai</Value>
+    </Setting>
+    <Setting Name="Rack" Type="System.Int16" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="Slot" Type="System.Int16" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

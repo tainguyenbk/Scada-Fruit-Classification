@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <metadata name="revenueBindingSource.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+  <data name="standardControl1.DebugData" xml:space="preserve">
+    <value>001,999,999,1,255,153,153,153,255,0,0,0,1,0,0,25,689,965,566,999,432,999,309,965,195,899,99,803,33,689,0,566,0,432,33,309,99,195,195,99,309,33,432,0,566,0,689,33,803,99,899,195,965,309,999,432,999,566,965,689,899,803,803,899,689,965,,1,255,229,229,229,255,178,178,178,1,0,0,18,352,920,232,869,144,785,84,682,52,562,52,440,84,324,144,221,232,133,335,74,451,41,573,41,691,74,779,134,877,239,642,136,191,740,352,920,,1,255,51,204,51,255,0,0,0,1,0,0,25,648,864,549,890,447,890,348,864,260,811,187,740,134,650,108,551,108,449,134,350,187,260,258,189,348,136,447,110,549,110,648,136,738,189,809,260,862,350,888,449,888,551,862,650,809,740,738,811,648,864,,1,255,51,204,51,255,49,179,49,1,0,0,17,558,798,440,798,329,753,245,669,200,560,200,442,245,331,329,247,438,202,556,202,667,247,751,331,796,440,796,560,751,669,667,753,558,798,,1,255,51,204,51,255,49,179,49,1,0,0,17,549,751,449,751,356,714,284,642,247,551,247,451,284,357,356,286,447,249,547,249,641,286,712,357,749,449,749,551,712,642,641,714,549,751,,2,0,0,0,0,255,255,255,255,1,0,0,13,809,260,862,350,888,449,888,551,862,650,809,740,738,811,648,864,549,890,447,890,348,864,260,811,187,740,</value>
+  </data>
+  <data name="standardControl2.DebugData" xml:space="preserve">
+    <value>001,999,999,1,255,153,153,153,255,0,0,0,1,0,0,25,689,965,565,999,433,999,309,965,194,899,99,804,33,689,0,565,0,433,33,309,99,194,194,99,309,33,433,0,565,0,689,33,804,99,899,194,965,309,999,433,999,565,965,689,899,804,804,899,689,965,,1,255,229,229,229,255,178,178,178,1,0,0,18,352,920,232,869,144,785,84,682,52,562,52,440,84,324,144,221,232,133,335,75,451,41,573,41,691,75,779,135,877,240,642,136,191,740,352,920,,1,255,51,51,51,255,51,51,51,1,0,0,12,691,965,565,999,434,999,135,676,627,101,965,307,999,433,999,564,965,691,899,805,805,899,691,965,,1,255,0,153,51,255,0,0,0,1,0,0,25,646,863,551,890,446,890,350,863,260,813,185,738,135,648,108,552,108,447,135,352,185,262,260,187,350,136,446,110,551,110,646,136,736,187,811,262,862,352,888,447,888,552,862,648,811,738,736,813,646,863,,1,255,51,204,51,255,0,0,0,1,0,0,25,564,779,464,805,363,805,264,779,176,727,103,656,50,565,24,466,24,365,50,266,103,176,174,104,264,52,363,26,464,26,564,52,654,104,725,176,777,266,804,365,804,466,777,565,725,656,654,727,564,779,,2,0,0,0,0,255,49,179,49,1,0,0,17,474,714,356,714,245,669,161,584,116,476,116,358,161,247,245,162,354,118,472,118,582,162,667,247,712,356,712,476,667,584,582,669,474,714,,2,0,0,0,0,255,49,179,49,1,0,0,17,464,667,365,667,271,629,200,558,162,466,162,367,200,273,271,202,363,164,462,164,556,202,627,273,665,365,665,466,627,558,556,629,464,667,</value>
+  </data>
+  <data name="standardControl3.DebugData" xml:space="preserve">
+    <value>001,999,999,1,255,153,153,153,255,0,0,0,1,0,0,25,689,965,565,999,433,999,309,965,194,899,99,804,33,689,0,565,0,433,33,309,99,194,194,99,309,33,433,0,565,0,689,33,804,99,899,194,965,309,999,433,999,565,965,689,899,804,804,899,689,965,,1,255,229,229,229,255,178,178,178,1,0,0,18,352,920,232,869,144,785,84,682,52,562,52,440,84,324,144,221,232,133,335,75,451,41,573,41,691,75,779,135,877,240,642,136,191,740,352,920,,1,255,51,51,51,255,51,51,51,1,0,0,12,691,965,565,999,434,999,135,676,627,101,965,307,999,433,999,564,965,691,899,805,805,899,691,965,,1,255,0,153,51,255,0,0,0,1,0,0,25,646,863,551,890,446,890,350,863,260,813,185,738,135,648,108,552,108,447,135,352,185,262,260,187,350,136,446,110,551,110,646,136,736,187,811,262,862,352,888,447,888,552,862,648,811,738,736,813,646,863,,1,255,51,204,51,255,0,0,0,1,0,0,25,564,779,464,805,363,805,264,779,176,727,103,656,50,565,24,466,24,365,50,266,103,176,174,104,264,52,363,26,464,26,564,52,654,104,725,176,777,266,804,365,804,466,777,565,725,656,654,727,564,779,,2,0,0,0,0,255,49,179,49,1,0,0,17,474,714,356,714,245,669,161,584,116,476,116,358,161,247,245,162,354,118,472,118,582,162,667,247,712,356,712,476,667,584,582,669,474,714,,2,0,0,0,0,255,49,179,49,1,0,0,17,464,667,365,667,271,629,200,558,162,466,162,367,200,273,271,202,363,164,462,164,556,202,627,273,665,365,665,466,627,558,556,629,464,667,</value>
+  </data>
+</root>

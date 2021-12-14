@@ -1,0 +1,329 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="sdAlarm.DebugData" xml:space="preserve">
+    <value>001,999,999,3,255,0,0,0,0,255,255,255,1,1,0,2,0,0,999,999,,1,255,127,127,127,0,255,255,255,1,0,0,17,20,499,55,320,157,157,320,54,499,20,678,54,841,157,944,320,978,499,944,678,841,841,678,943,499,978,320,943,157,841,55,678,20,499,,1,255,181,181,181,0,255,255,255,1,0,0,17,114,404,135,296,198,198,297,134,405,113,515,134,613,198,676,296,697,404,676,514,613,612,515,675,405,696,297,675,198,612,135,514,114,404,,3,255,209,209,209,0,255,255,255,1,1,0,2,161,160,396,396,,3,255,235,235,235,0,255,255,255,1,1,0,2,208,207,208,208,</value>
+  </data>
+  <data name="sdMotor.DebugData" xml:space="preserve">
+    <value>001,999,545,1,255,127,127,127,0,255,255,255,1,0,0,5,995,213,762,213,762,283,995,283,995,213,,1,255,178,178,178,0,255,255,255,1,0,0,5,993,219,762,219,762,270,993,270,993,219,,1,255,224,224,224,0,255,255,255,1,0,0,5,993,226,762,226,762,253,993,253,993,226,,1,255,240,240,240,0,255,255,255,1,0,0,5,993,228,762,228,762,236,993,236,993,228,,1,255,127,127,127,255,0,0,0,1,0,0,10,730,478,753,471,760,452,760,43,753,24,730,18,126,18,111,247,128,478,730,478,,1,255,229,229,229,255,0,0,0,1,0,0,7,128,3,126,45,730,45,743,37,720,9,705,3,128,3,,1,255,229,229,229,255,0,0,0,1,0,0,7,126,50,122,90,741,90,743,79,730,58,702,50,126,50,,1,255,209,209,209,255,0,0,0,1,0,0,6,122,98,120,128,741,128,743,124,705,98,122,98,,1,255,209,209,209,255,0,0,0,1,0,0,6,117,145,115,175,741,175,743,168,702,145,117,145,,1,255,209,209,209,255,0,0,0,1,0,0,6,115,192,113,215,736,215,743,209,702,192,115,192,,1,255,178,178,178,255,0,0,0,1,0,0,7,113,255,111,247,113,238,705,238,747,255,736,255,113,255,,1,255,178,178,178,255,0,0,0,1,0,0,6,115,281,115,306,741,306,743,302,702,281,115,281,,1,255,178,178,178,255,0,0,0,1,0,0,6,117,321,120,353,736,353,741,348,702,321,117,321,,1,255,178,178,178,255,0,0,0,1,0,0,6,120,368,122,401,736,401,743,395,702,368,120,368,,1,255,178,178,178,255,0,0,0,1,0,0,6,124,408,126,448,736,448,743,437,702,408,124,408,,1,255,127,127,127,0,255,255,255,1,0,0,7,130,7,88,7,58,16,31,39,26,45,128,45,130,7,,1,255,127,127,127,0,255,255,255,1,0,0,7,14,418,33,450,58,474,88,482,130,482,126,418,14,418,,1,255,178,178,178,0,255,255,255,1,0,0,6,26,45,11,73,9,86,126,86,128,45,26,45,,1,255,178,178,178,0,255,255,255,1,0,0,7,5,342,5,374,11,416,14,418,126,418,124,342,5,342,,1,255,229,229,229,0,255,255,255,1,0,0,6,9,86,5,115,5,132,124,132,126,86,9,86,,1,255,229,229,229,0,255,255,255,1,0,0,5,5,240,5,190,122,190,120,240,5,240,,1,255,240,240,240,0,255,255,255,1,0,0,5,5,190,5,132,124,132,122,190,5,190,,1,255,224,224,224,0,255,255,255,1,0,0,7,5,240,5,247,5,293,122,293,120,247,120,240,5,240,,1,255,204,204,204,0,255,255,255,1,0,0,5,5,342,5,293,122,293,124,342,5,342,,2,0,0,0,0,255,0,0,0,1,0,0,15,130,7,88,7,58,16,31,39,11,75,3,117,3,245,5,374,14,416,33,452,58,476,88,484,130,484,120,245,130,7,,1,255,127,127,127,255,0,0,0,1,0,0,13,242,510,242,406,272,406,272,510,539,510,539,406,569,406,569,510,705,510,705,541,107,541,107,510,242,510,</value>
+  </data>
+  <data name="sdStart.DebugData" xml:space="preserve">
+    <value>001,999,999,3,255,0,0,0,0,255,255,255,1,1,0,2,0,0,999,999,,1,255,127,127,127,0,255,255,255,1,0,0,17,20,499,55,320,157,157,320,54,499,20,678,54,841,157,944,320,978,499,944,678,841,841,678,943,499,978,320,943,157,841,55,678,20,499,,1,255,181,181,181,0,255,255,255,1,0,0,17,114,404,135,296,198,198,297,134,405,113,515,134,613,198,676,296,697,404,676,514,613,612,515,675,405,696,297,675,198,612,135,514,114,404,,3,255,209,209,209,0,255,255,255,1,1,0,2,161,160,396,396,,3,255,235,235,235,0,255,255,255,1,1,0,2,208,207,208,208,</value>
+  </data>
+  <data name="btnReset.DebugData" xml:space="preserve">
+    <value>001,999,999,1,255,153,153,153,255,0,0,0,1,0,0,25,689,965,565,999,433,999,309,965,195,899,99,803,33,689,0,565,0,433,33,309,99,195,195,99,309,33,433,0,565,0,689,33,803,99,899,195,965,309,999,433,999,565,965,689,899,803,803,899,689,965,,1,255,229,229,229,255,178,178,178,1,0,0,18,352,920,232,869,144,785,84,682,52,562,52,440,84,324,144,221,232,132,335,74,451,41,573,41,691,74,779,134,877,239,642,136,191,740,352,920,,1,255,51,51,51,255,51,51,51,1,0,0,12,691,965,565,999,435,999,134,676,627,101,965,307,999,433,999,563,965,691,899,805,805,899,691,965,,1,255,217,217,0,255,0,0,0,1,0,0,25,646,864,550,890,446,890,350,864,260,813,185,738,134,648,108,552,108,448,134,352,185,262,260,187,350,136,446,110,550,110,646,136,736,187,811,262,862,352,888,448,888,552,862,648,811,738,736,813,646,864,,1,255,255,255,0,255,0,0,0,1,0,0,25,563,779,464,805,363,805,264,779,176,726,103,655,50,565,24,466,24,365,50,266,103,176,174,105,264,52,363,26,464,26,563,52,653,105,725,176,777,266,803,365,803,466,777,565,725,655,653,726,563,779,,1,255,255,255,0,255,235,235,0,1,0,0,17,474,714,356,714,245,669,161,584,116,475,116,358,161,247,245,163,354,118,472,118,582,163,667,247,712,356,712,475,667,584,582,669,474,714,,1,255,255,255,0,255,235,235,0,1,0,0,17,464,667,365,667,272,629,200,558,163,466,163,367,200,273,272,202,363,164,462,164,556,202,627,273,665,365,665,466,627,558,556,629,464,667,</value>
+  </data>
+  <data name="btnReset1.DebugData" xml:space="preserve">
+    <value>001,999,999,1,255,153,153,153,255,0,0,0,1,0,0,25,689,965,565,999,433,999,309,965,194,899,99,804,33,689,0,565,0,433,33,309,99,194,194,99,309,33,433,0,565,0,689,33,804,99,899,194,965,309,999,433,999,565,965,689,899,804,804,899,689,965,,1,255,229,229,229,255,178,178,178,1,0,0,18,352,920,232,869,144,785,84,682,52,562,52,440,84,324,144,221,232,132,335,75,451,41,573,41,691,75,779,135,877,240,642,136,191,740,352,920,,1,255,255,255,0,255,0,0,0,1,0,0,25,648,863,549,890,447,890,348,863,260,811,187,740,135,650,108,551,108,449,135,350,187,260,258,189,348,136,447,110,549,110,648,136,738,189,809,260,862,350,888,449,888,551,862,650,809,740,738,811,648,863,,1,255,255,255,0,255,235,235,0,1,0,0,17,558,798,440,798,329,753,245,669,200,560,200,442,245,331,329,247,438,202,556,202,667,247,751,331,796,440,796,560,751,669,667,753,558,798,,1,255,255,255,0,255,235,235,0,1,0,0,17,549,751,449,751,356,714,284,642,247,551,247,451,284,357,356,286,447,249,547,249,641,286,712,357,749,449,749,551,712,642,641,714,549,751,,2,0,0,0,0,255,255,255,255,1,0,0,13,809,260,862,350,888,449,888,551,862,650,809,740,738,811,648,863,549,890,447,890,348,863,260,811,187,740,</value>
+  </data>
+  <data name="btnStop.DebugData" xml:space="preserve">
+    <value>001,999,999,1,255,153,153,153,255,0,0,0,1,0,0,25,689,965,566,999,432,999,309,965,194,899,99,804,33,689,0,566,0,432,33,309,99,194,194,99,309,33,432,0,566,0,689,33,804,99,899,194,965,309,999,432,999,566,965,689,899,804,804,899,689,965,,1,255,229,229,229,255,178,178,178,1,0,0,18,352,920,232,869,144,785,84,682,52,562,52,440,84,324,144,220,232,133,335,75,451,41,573,41,691,75,779,134,877,239,642,136,191,740,352,920,,1,255,51,51,51,255,51,51,51,1,0,0,12,691,965,566,999,434,999,134,676,627,101,965,307,999,432,999,564,965,691,899,806,806,899,691,965,,1,255,170,0,0,255,0,0,0,1,0,0,25,646,864,551,890,445,890,350,864,260,813,185,738,134,648,108,553,108,447,134,352,185,262,260,187,350,136,445,110,551,110,646,136,736,187,811,262,862,352,888,447,888,553,862,648,811,738,736,813,646,864,,1,255,255,0,0,255,0,0,0,1,0,0,25,564,779,464,806,363,806,264,779,176,727,103,655,50,566,24,466,24,365,50,266,103,176,174,105,264,52,363,26,464,26,564,52,654,105,725,176,778,266,804,365,804,466,778,566,725,655,654,727,564,779,,2,0,0,0,0,255,220,0,0,1,0,0,17,474,713,356,713,245,669,161,584,116,475,116,358,161,247,245,162,354,118,472,118,582,162,667,247,712,356,712,475,667,584,582,669,474,713,,2,0,0,0,0,255,220,0,0,1,0,0,17,464,667,365,667,271,629,200,558,162,466,162,367,200,273,271,202,363,164,462,164,556,202,627,273,665,365,665,466,627,558,556,629,464,667,</value>
+  </data>
+  <data name="btnStop1.DebugData" xml:space="preserve">
+    <value>001,999,999,1,255,153,153,153,255,0,0,0,1,0,0,25,689,965,566,999,432,999,309,965,194,899,99,804,33,689,0,566,0,432,33,309,99,194,194,99,309,33,432,0,566,0,689,33,804,99,899,194,965,309,999,432,999,566,965,689,899,804,804,899,689,965,,1,255,229,229,229,255,178,178,178,1,0,0,18,352,920,232,869,144,785,84,682,52,562,52,440,84,324,144,221,232,133,335,74,451,41,573,41,691,74,779,134,877,239,643,136,191,740,352,920,,1,255,255,0,0,255,0,0,0,1,0,0,25,648,864,549,890,448,890,348,864,260,811,187,740,134,650,108,550,108,449,134,350,187,260,258,189,348,136,448,110,549,110,648,136,738,189,809,260,862,350,888,449,888,550,862,650,809,740,738,811,648,864,,2,0,0,0,0,255,220,0,0,1,0,0,17,558,798,440,798,329,753,245,669,200,560,200,442,245,331,329,247,438,202,556,202,667,247,751,331,796,440,796,560,751,669,667,753,558,798,,2,0,0,0,0,255,220,0,0,1,0,0,17,549,751,449,751,355,714,284,643,247,550,247,451,284,358,355,286,448,249,547,249,640,286,712,358,749,449,749,550,712,643,640,714,549,751,,2,0,0,0,0,255,255,255,255,1,0,0,13,809,260,862,350,888,449,888,550,862,650,809,740,738,811,648,864,549,890,448,890,348,864,260,811,187,740,</value>
+  </data>
+  <data name="btnStart.DebugData" xml:space="preserve">
+    <value>001,999,999,1,255,153,153,153,255,0,0,0,1,0,0,25,689,965,565,999,433,999,309,965,194,899,99,804,33,689,0,565,0,433,33,309,99,194,194,99,309,33,433,0,565,0,689,33,804,99,899,194,965,309,999,433,999,565,965,689,899,804,804,899,689,965,,1,255,229,229,229,255,178,178,178,1,0,0,18,352,920,232,869,144,785,84,682,52,562,52,440,84,324,144,221,232,133,335,75,451,41,573,41,691,75,779,135,877,240,642,136,191,740,352,920,,1,255,51,51,51,255,51,51,51,1,0,0,12,691,965,565,999,434,999,135,676,627,101,965,307,999,433,999,564,965,691,899,805,805,899,691,965,,1,255,0,153,51,255,0,0,0,1,0,0,25,646,863,551,890,446,890,350,863,260,813,185,738,135,648,108,552,108,447,135,352,185,262,260,187,350,136,446,110,551,110,646,136,736,187,811,262,862,352,888,447,888,552,862,648,811,738,736,813,646,863,,1,255,51,204,51,255,0,0,0,1,0,0,25,564,779,464,805,363,805,264,779,176,727,103,656,50,565,24,466,24,365,50,266,103,176,174,104,264,52,363,26,464,26,564,52,654,104,725,176,777,266,804,365,804,466,777,565,725,656,654,727,564,779,,2,0,0,0,0,255,49,179,49,1,0,0,17,474,714,356,714,245,669,161,584,116,476,116,358,161,247,245,162,354,118,472,118,582,162,667,247,712,356,712,476,667,584,582,669,474,714,,2,0,0,0,0,255,49,179,49,1,0,0,17,464,667,365,667,271,629,200,558,162,466,162,367,200,273,271,202,363,164,462,164,556,202,627,273,665,365,665,466,627,558,556,629,464,667,</value>
+  </data>
+  <data name="btnStart1.DebugData" xml:space="preserve">
+    <value>001,999,999,1,255,153,153,153,255,0,0,0,1,0,0,25,689,965,566,999,432,999,309,965,195,899,99,803,33,689,0,566,0,432,33,309,99,195,195,99,309,33,432,0,566,0,689,33,803,99,899,195,965,309,999,432,999,566,965,689,899,803,803,899,689,965,,1,255,229,229,229,255,178,178,178,1,0,0,18,352,920,232,869,144,785,84,682,52,562,52,440,84,324,144,221,232,133,335,74,451,41,573,41,691,74,779,134,877,239,642,136,191,740,352,920,,1,255,51,204,51,255,0,0,0,1,0,0,25,648,864,549,890,447,890,348,864,260,811,187,740,134,650,108,551,108,449,134,350,187,260,258,189,348,136,447,110,549,110,648,136,738,189,809,260,862,350,888,449,888,551,862,650,809,740,738,811,648,864,,1,255,51,204,51,255,49,179,49,1,0,0,17,558,798,440,798,329,753,245,669,200,560,200,442,245,331,329,247,438,202,556,202,667,247,751,331,796,440,796,560,751,669,667,753,558,798,,1,255,51,204,51,255,49,179,49,1,0,0,17,549,751,449,751,356,714,284,642,247,551,247,451,284,357,356,286,447,249,547,249,641,286,712,357,749,449,749,551,712,642,641,714,549,751,,2,0,0,0,0,255,255,255,255,1,0,0,13,809,260,862,350,888,449,888,551,862,650,809,740,738,811,648,864,549,890,447,890,348,864,260,811,187,740,</value>
+  </data>
+  <metadata name="timerHome.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+  <data name="ProgressBar_Green.AnimationFunction" mimetype="application/x-microsoft.net.object.binary.base64">
+    <value>
+        AAEAAAD/////AQAAAAAAAAAMAgAAAEdXaW5Gb3JtQW5pbWF0aW9uLCBWZXJzaW9uPTEuMy4wLjAsIEN1
+        bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49bnVsbAUBAAAAIlN5c3RlbS5EZWxlZ2F0ZVNlcmlh
+        bGl6YXRpb25Ib2xkZXICAAAACERlbGVnYXRlB21ldGhvZDADAzBTeXN0ZW0uRGVsZWdhdGVTZXJpYWxp
+        emF0aW9uSG9sZGVyK0RlbGVnYXRlRW50cnkvU3lzdGVtLlJlZmxlY3Rpb24uTWVtYmVySW5mb1Nlcmlh
+        bGl6YXRpb25Ib2xkZXICAAAACQMAAAAJBAAAAAQDAAAAMFN5c3RlbS5EZWxlZ2F0ZVNlcmlhbGl6YXRp
+        b25Ib2xkZXIrRGVsZWdhdGVFbnRyeQcAAAAEdHlwZQhhc3NlbWJseQZ0YXJnZXQSdGFyZ2V0VHlwZUFz
+        c2VtYmx5DnRhcmdldFR5cGVOYW1lCm1ldGhvZE5hbWUNZGVsZWdhdGVFbnRyeQEBAgEBAQMwU3lzdGVt
+        LkRlbGVnYXRlU2VyaWFsaXphdGlvbkhvbGRlcitEZWxlZ2F0ZUVudHJ5BgUAAAAsV2luRm9ybUFuaW1h
+        dGlvbi5BbmltYXRpb25GdW5jdGlvbnMrRnVuY3Rpb24GBgAAAEdXaW5Gb3JtQW5pbWF0aW9uLCBWZXJz
+        aW9uPTEuMy4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49bnVsbAoJBgAAAAYHAAAA
+        I1dpbkZvcm1BbmltYXRpb24uQW5pbWF0aW9uRnVuY3Rpb25zBggAAAALQ3ViaWNFYXNlSW4KBAQAAAAv
+        U3lzdGVtLlJlZmxlY3Rpb24uTWVtYmVySW5mb1NlcmlhbGl6YXRpb25Ib2xkZXIHAAAABE5hbWUMQXNz
+        ZW1ibHlOYW1lCUNsYXNzTmFtZQlTaWduYXR1cmUKU2lnbmF0dXJlMgpNZW1iZXJUeXBlEEdlbmVyaWNB
+        cmd1bWVudHMBAQEBAQADCA1TeXN0ZW0uVHlwZVtdCQgAAAAJBgAAAAkHAAAABgsAAAAyU2luZ2xlIEN1
+        YmljRWFzZUluKFNpbmdsZSwgU2luZ2xlLCBTaW5nbGUsIFNpbmdsZSkGDAAAAFVTeXN0ZW0uU2luZ2xl
+        IEN1YmljRWFzZUluKFN5c3RlbS5TaW5nbGUsIFN5c3RlbS5TaW5nbGUsIFN5c3RlbS5TaW5nbGUsIFN5
+        c3RlbS5TaW5nbGUpCAAAAAoL
+</value>
+  </data>
+  <data name="ProgressBar_Red.AnimationFunction" mimetype="application/x-microsoft.net.object.binary.base64">
+    <value>
+        AAEAAAD/////AQAAAAAAAAAMAgAAAEdXaW5Gb3JtQW5pbWF0aW9uLCBWZXJzaW9uPTEuMy4wLjAsIEN1
+        bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49bnVsbAUBAAAAIlN5c3RlbS5EZWxlZ2F0ZVNlcmlh
+        bGl6YXRpb25Ib2xkZXICAAAACERlbGVnYXRlB21ldGhvZDADAzBTeXN0ZW0uRGVsZWdhdGVTZXJpYWxp
+        emF0aW9uSG9sZGVyK0RlbGVnYXRlRW50cnkvU3lzdGVtLlJlZmxlY3Rpb24uTWVtYmVySW5mb1Nlcmlh
+        bGl6YXRpb25Ib2xkZXICAAAACQMAAAAJBAAAAAQDAAAAMFN5c3RlbS5EZWxlZ2F0ZVNlcmlhbGl6YXRp
+        b25Ib2xkZXIrRGVsZWdhdGVFbnRyeQcAAAAEdHlwZQhhc3NlbWJseQZ0YXJnZXQSdGFyZ2V0VHlwZUFz
+        c2VtYmx5DnRhcmdldFR5cGVOYW1lCm1ldGhvZE5hbWUNZGVsZWdhdGVFbnRyeQEBAgEBAQMwU3lzdGVt
+        LkRlbGVnYXRlU2VyaWFsaXphdGlvbkhvbGRlcitEZWxlZ2F0ZUVudHJ5BgUAAAAsV2luRm9ybUFuaW1h
+        dGlvbi5BbmltYXRpb25GdW5jdGlvbnMrRnVuY3Rpb24GBgAAAEdXaW5Gb3JtQW5pbWF0aW9uLCBWZXJz
+        aW9uPTEuMy4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49bnVsbAoJBgAAAAYHAAAA
+        I1dpbkZvcm1BbmltYXRpb24uQW5pbWF0aW9uRnVuY3Rpb25zBggAAAALQ3ViaWNFYXNlSW4KBAQAAAAv
+        U3lzdGVtLlJlZmxlY3Rpb24uTWVtYmVySW5mb1NlcmlhbGl6YXRpb25Ib2xkZXIHAAAABE5hbWUMQXNz
+        ZW1ibHlOYW1lCUNsYXNzTmFtZQlTaWduYXR1cmUKU2lnbmF0dXJlMgpNZW1iZXJUeXBlEEdlbmVyaWNB
+        cmd1bWVudHMBAQEBAQADCA1TeXN0ZW0uVHlwZVtdCQgAAAAJBgAAAAkHAAAABgsAAAAyU2luZ2xlIEN1
+        YmljRWFzZUluKFNpbmdsZSwgU2luZ2xlLCBTaW5nbGUsIFNpbmdsZSkGDAAAAFVTeXN0ZW0uU2luZ2xl
+        IEN1YmljRWFzZUluKFN5c3RlbS5TaW5nbGUsIFN5c3RlbS5TaW5nbGUsIFN5c3RlbS5TaW5nbGUsIFN5
+        c3RlbS5TaW5nbGUpCAAAAAoL
+</value>
+  </data>
+  <data name="ProgressBar_Orange.AnimationFunction" mimetype="application/x-microsoft.net.object.binary.base64">
+    <value>
+        AAEAAAD/////AQAAAAAAAAAMAgAAAEdXaW5Gb3JtQW5pbWF0aW9uLCBWZXJzaW9uPTEuMy4wLjAsIEN1
+        bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49bnVsbAUBAAAAIlN5c3RlbS5EZWxlZ2F0ZVNlcmlh
+        bGl6YXRpb25Ib2xkZXICAAAACERlbGVnYXRlB21ldGhvZDADAzBTeXN0ZW0uRGVsZWdhdGVTZXJpYWxp
+        emF0aW9uSG9sZGVyK0RlbGVnYXRlRW50cnkvU3lzdGVtLlJlZmxlY3Rpb24uTWVtYmVySW5mb1Nlcmlh
+        bGl6YXRpb25Ib2xkZXICAAAACQMAAAAJBAAAAAQDAAAAMFN5c3RlbS5EZWxlZ2F0ZVNlcmlhbGl6YXRp
+        b25Ib2xkZXIrRGVsZWdhdGVFbnRyeQcAAAAEdHlwZQhhc3NlbWJseQZ0YXJnZXQSdGFyZ2V0VHlwZUFz
+        c2VtYmx5DnRhcmdldFR5cGVOYW1lCm1ldGhvZE5hbWUNZGVsZWdhdGVFbnRyeQEBAgEBAQMwU3lzdGVt
+        LkRlbGVnYXRlU2VyaWFsaXphdGlvbkhvbGRlcitEZWxlZ2F0ZUVudHJ5BgUAAAAsV2luRm9ybUFuaW1h
+        dGlvbi5BbmltYXRpb25GdW5jdGlvbnMrRnVuY3Rpb24GBgAAAEdXaW5Gb3JtQW5pbWF0aW9uLCBWZXJz
+        aW9uPTEuMy4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49bnVsbAoJBgAAAAYHAAAA
+        I1dpbkZvcm1BbmltYXRpb24uQW5pbWF0aW9uRnVuY3Rpb25zBggAAAALQ3ViaWNFYXNlSW4KBAQAAAAv
+        U3lzdGVtLlJlZmxlY3Rpb24uTWVtYmVySW5mb1NlcmlhbGl6YXRpb25Ib2xkZXIHAAAABE5hbWUMQXNz
+        ZW1ibHlOYW1lCUNsYXNzTmFtZQlTaWduYXR1cmUKU2lnbmF0dXJlMgpNZW1iZXJUeXBlEEdlbmVyaWNB
+        cmd1bWVudHMBAQEBAQADCA1TeXN0ZW0uVHlwZVtdCQgAAAAJBgAAAAkHAAAABgsAAAAyU2luZ2xlIEN1
+        YmljRWFzZUluKFNpbmdsZSwgU2luZ2xlLCBTaW5nbGUsIFNpbmdsZSkGDAAAAFVTeXN0ZW0uU2luZ2xl
+        IEN1YmljRWFzZUluKFN5c3RlbS5TaW5nbGUsIFN5c3RlbS5TaW5nbGUsIFN5c3RlbS5TaW5nbGUsIFN5
+        c3RlbS5TaW5nbGUpCAAAAAoL
+</value>
+  </data>
+  <metadata name="wRecord.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>123, 19</value>
+  </metadata>
+  <metadata name="menuStrip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>210, 21</value>
+  </metadata>
+  <metadata name="menuStrip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>210, 21</value>
+  </metadata>
+  <metadata name="timerSignal.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>312, 19</value>
+  </metadata>
+  <data name="ProgressBar_Error.AnimationFunction" mimetype="application/x-microsoft.net.object.binary.base64">
+    <value>
+        AAEAAAD/////AQAAAAAAAAAMAgAAAEdXaW5Gb3JtQW5pbWF0aW9uLCBWZXJzaW9uPTEuMy4wLjAsIEN1
+        bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49bnVsbAUBAAAAIlN5c3RlbS5EZWxlZ2F0ZVNlcmlh
+        bGl6YXRpb25Ib2xkZXICAAAACERlbGVnYXRlB21ldGhvZDADAzBTeXN0ZW0uRGVsZWdhdGVTZXJpYWxp
+        emF0aW9uSG9sZGVyK0RlbGVnYXRlRW50cnkvU3lzdGVtLlJlZmxlY3Rpb24uTWVtYmVySW5mb1Nlcmlh
+        bGl6YXRpb25Ib2xkZXICAAAACQMAAAAJBAAAAAQDAAAAMFN5c3RlbS5EZWxlZ2F0ZVNlcmlhbGl6YXRp
+        b25Ib2xkZXIrRGVsZWdhdGVFbnRyeQcAAAAEdHlwZQhhc3NlbWJseQZ0YXJnZXQSdGFyZ2V0VHlwZUFz
+        c2VtYmx5DnRhcmdldFR5cGVOYW1lCm1ldGhvZE5hbWUNZGVsZWdhdGVFbnRyeQEBAgEBAQMwU3lzdGVt
+        LkRlbGVnYXRlU2VyaWFsaXphdGlvbkhvbGRlcitEZWxlZ2F0ZUVudHJ5BgUAAAAsV2luRm9ybUFuaW1h
+        dGlvbi5BbmltYXRpb25GdW5jdGlvbnMrRnVuY3Rpb24GBgAAAEdXaW5Gb3JtQW5pbWF0aW9uLCBWZXJz
+        aW9uPTEuMy4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49bnVsbAoJBgAAAAYHAAAA
+        I1dpbkZvcm1BbmltYXRpb24uQW5pbWF0aW9uRnVuY3Rpb25zBggAAAALQ3ViaWNFYXNlSW4KBAQAAAAv
+        U3lzdGVtLlJlZmxlY3Rpb24uTWVtYmVySW5mb1NlcmlhbGl6YXRpb25Ib2xkZXIHAAAABE5hbWUMQXNz
+        ZW1ibHlOYW1lCUNsYXNzTmFtZQlTaWduYXR1cmUKU2lnbmF0dXJlMgpNZW1iZXJUeXBlEEdlbmVyaWNB
+        cmd1bWVudHMBAQEBAQADCA1TeXN0ZW0uVHlwZVtdCQgAAAAJBgAAAAkHAAAABgsAAAAyU2luZ2xlIEN1
+        YmljRWFzZUluKFNpbmdsZSwgU2luZ2xlLCBTaW5nbGUsIFNpbmdsZSkGDAAAAFVTeXN0ZW0uU2luZ2xl
+        IEN1YmljRWFzZUluKFN5c3RlbS5TaW5nbGUsIFN5c3RlbS5TaW5nbGUsIFN5c3RlbS5TaW5nbGUsIFN5
+        c3RlbS5TaW5nbGUpCAAAAAoL
+</value>
+  </data>
+  <metadata name="timerUpdate.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>411, 18</value>
+  </metadata>
+  <metadata name="$this.TrayHeight" type="System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>25</value>
+  </metadata>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        AAABAAEAICAAAAEAIACoEAAAFgAAACgAAAAgAAAAQAAAAAEAIAAAAAAAABAAAOwAAADsAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQWFhY7GBg0iRoa
+        P7EZGT/OGRlAzhkZQrYYGDOIFhYWOwAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABgYGCsYGDvHGBg99Bsb
+        bfwaGpv/Gxuu/xwcwf8cHMH/Gxuu/xoam/8aGm39GBg99BgYPMcSEhIqAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABcXFxYZGTrLGRlT+Rsb
+        sf8dHdb/HR3W/x0d1v8dHdb/HR3W/x0d1v8dHdb/HR3W/x0d1v8dHdb/Gxux/xgYU/oZGTrKGBgYFQAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWFiFFFxc48hsb
+        qf8dHdb/HR3W/x0d1v8dHdb/HR3W/x0d1v8dHdb/HR3W/x0d1v8dHdb/HR3W/x0d1v8dHdb/HR3W/xsb
+        qf8YGDv0FhYoRwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGBguVBkZ
+        SvkcHMj/HR3M/x0d1f8dHdb/HR3W/x0d1v8dHdb/HR3W/x0d1v8dHdb/HR3W/x0d1v8dHdb/HR3W/x0d
+        1v8dHdb/HR3W/x0dyP8YGEj6FRUxVAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABUV
+        Jj0ZGUP4HR3N/x0dzf8XF0H/HBzL/x0d1v8dHdb/HR3W/x0d1v8dHdb/HR3W/x4e1/8nJ9//Li7n/zEx
+        6/80NO3/NTXu/zMz7P8vL+j/Kiri/yAg0f8ZGUT5GhonOwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAcHBwJGRk27x0dxv8dHdb/GBhf/xoanP8dHdb/HR3W/x0d1v8dHdb/HR3W/yIi3P8xMev/Ojrz/zs7
+        9P87O/T/Ozv0/zs79P87O/T/Ozv0/zs79P87O/T/Ozv0/zIy2/8YGDDmICAgCAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAABgYNpYbG47+HR3W/x0d1v8cHLr/HR3W/x0d1v8dHdb/HR3W/x8f2P8xMer/Ozv0/zs7
+        9P87O/T/Ozv0/zs79P87O/T/Ozv0/zs79P87O/T/Ozv0/zs79P87O/T/Ozv0/ysrmvcYGCuKAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAkJCQHGBg79B0d1f8dHdb/HR3R/x0d1v8dHdb/HR3W/x0d1v8jI9z/ODjw/zs7
+        9P87O/T/Ozv0/zs79P87O/T/Ozv0/zs79P87O/T/Ozv0/zs79P87O/T/Ozv0/zs79P87O/T/Ozvy/xkZ
+        M+ckJCQHAAAAAAAAAAAAAAAAAAAAABMTHFEaGnj9HR3W/xwcyv8XF1T/HR3W/x0d1v8dHdb/IiLb/zk5
+        8v87O/T/Ozv0/zs79P87O/T/Ozv0/zs79P87O/T/Ozv0/zs79P87O/T/Ozv0/zs79P87O/T/Ozv0/zs7
+        9P87O/T/Jyd/8xcXGk0AAAAAAAAAAAAAAAAAAAAAGRlAwBwctf8dHdb/Gxub/xoaff8dHdb/HR3W/yAg
+        2f84OPH/Ozv0/zs79P87O/T/Ozv0/zs79P87O/T/Ozv0/zs79P87O/T/Ozv0/zs79P87O/T/Ozv0/zs7
+        9P87O/T/Ozv0/zs79P81Nc3/GRkxrQAAAAAAAAAAAAAAAAAAAAAZGTrhHR3P/x0d1v8ZGXr/Gxuh/x0d
+        1v8dHdb/MDDq/zs79P87O/T/Ozv0/zs79P87O/T/Ozv0/zs79P87O/T/Ozv0/zs79P87O/T/Ozv0/zs7
+        9P87O/T/Ozv0/zs79P87O/T/Ozv0/zo66/8aGi/QAAAAAAAAAAAAAAAAAAAAABkZO+wdHdb/HR3W/xkZ
+        a/8bG7D/HR3W/yQk3P87O/T/Ozv0/zs79P87O/T/Ozv0/zs79P87O/T/Ozv0/zs79P87O/T/Ozv0/zs7
+        9P87O/T/Ozv0/zs79P87O/T/Ozv0/zs79P87O/T/Ozv0/xsbMt0AAAAAAAAAAAAAAAAAAAAAGRk77B0d
+        1v8dHdb/GBht/xsbrv8dHdb/MDDp/zs79P87O/T/Ozv0/zs79P87O/T/Ozv0/zs79P87O/T/Ozv0/zs7
+        9P87O/T/Ozv0/zs79P87O/T/Ozv0/zs79P87O/T/Ozv0/zs79P87O/T/Gxsy3AAAAAAAAAAAAAAAAAAA
+        AAAZGTnkHR3R/x0d1v8ZGX7/Ghqb/x4e1/85OfL/Ozv0/zs79P87O/T/Ozv0/zs79P87O/T/Ozv0/zs7
+        9P87O/T/Ozv0/zs79P87O/T/Ozv0/zs79P87O/T/Ozv0/zs79P87O/T/Ozv0/zo67f8ZGS/TAAAAAAAA
+        AAAAAAAAAAAAABoaP64cHKz/HR3W/xsbpf8ZGXL/IiLb/zs79P87O/T/Ozv0/zs79P87O/T/Ozv0/zs7
+        9P87O/T/Ozv0/zs79P87O/T/Ozv0/zs79P87O/T/Ozv0/zs79P87O/T/Ozv0/zs79P87O/T/MjLB/xkZ
+        LpwAAAAAAAAAAAAAAAAAAAAAFhYZRxoacv0dHdb/HR3R/xgYXf8mJt//Ozv0/zs79P87O/T/Ozv0/zs7
+        9P87O/T/Ozv0/zs79P87O/T/Ozv0/zs79P87O/T/Ozv0/zs79P87O/T/Ozv0/zs79P87O/T/Ozv0/zs7
+        9P8lJXTvExMXQwAAAAAAAAAAAAAAAAAAAAAAAAADFxc38B0d0P8dHdb/HR3W/ygo4f87O/T/Ozv0/zs7
+        9P87O/T/Ozv0/zs79P87O/T/Ozv0/zs79P87O/T/Ozv0/zs79P87O/T/Ozv0/zs79P87O/T/Ozv0/zs7
+        9P87O/T/Ojrr/xkZMOEAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAWFi9zGhp8/h0d1v8dHdb/Jibf/zs7
+        9P87O/T/Ozv0/zo67v86OvH/Ozv0/zs79P87O/T/Ozv0/zs79P87O/T/Ozv0/zc33f8eH0f3Ozvy/zs7
+        9P87O/T/Ozv0/zs79P8nJ4LyGRklZwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMYGDffHByz/x0d
+        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
+        AD//4AM///wP///8f////H////x////8f/8=
+</value>
+  </data>
+</root>
